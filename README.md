@@ -101,7 +101,7 @@
           <li>Teacher - Students Results</li>
             <img src='images/lectureIndividualResult.PNG'>
           <li>Teacher - Result status</li>
-            <img src='images/subjectResultChart1.PNG'>
+            <img src='images/subjectResultChart2.PNG'>
         </ul>
       <br>
       <li>Student</li>
