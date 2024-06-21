@@ -31,5 +31,27 @@
     <li>Back-end</li>
       <ul type='circle'>
           <li>PHP</li>
+          <li>MySql</li>
       </ul>
   </ul>
+  <h4>4. Usage</h4>
+    <ul type='disk'>
+      <li>Admin</li>
+      <ul type='cricle'>
+        <li>Login</li>
+        <li>Add students and teachers</li>
+        <li>Add courses</li>
+        <li>Lecture Assign</li>
+      </ul>
+      <li>Teachers</li>
+      <ul type='cricle'>
+        <li>Add student results</li>
+        <li>Update results</li>
+        <li>View result status</li>
+      </ul>
+      <li>Students</li>
+      <ul type='cricle'>
+        <li>View results</li>
+        <li>Calculate GPA</li>
+      </ul>
+    </ul>
