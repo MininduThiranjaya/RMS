@@ -5,6 +5,7 @@
     <li>Features</li>
     <li>Technologies Used</li>
     <li>Usage</li>
+    <li>Application</li>
   </ol>
 
 <h4 id='intro'>1. Introduction</h4>
@@ -54,4 +55,9 @@
         <li>View results</li>
         <li>Calculate GPA</li>
       </ul>
+    </ul>
+  <h4>Application</h4>
+    <ul>
+      <li>Login</li>
+      <img src='images/login.png'>
     </ul>
