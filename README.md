@@ -1,4 +1,4 @@
-Table of Contents
+Table of Contents<br>
   Introduction
   Features
   Technologies Used
